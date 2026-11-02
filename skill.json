@@ -1,0 +1,22 @@
+{
+  "name": "genpark-personal-agent-postural-sway-center-of-pressure-skill",
+  "version": "1.0.0",
+  "description": "Deterministic personal agent skill for analyzing Center of Pressure (COP) statokinesigram trajectory, 95% confidence ellipse area, sway velocity, and Romberg Quotient.",
+  "author": "GenPark Autonomous Agents Ecosystem",
+  "license": "MIT",
+  "tags": [
+    "personal-agent",
+    "ai-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "python",
+    "zero-dependency",
+    "wellness",
+    "productivity",
+    "production-ready"
+  ],
+  "entrypoint": "mcp_server.py"
+}
